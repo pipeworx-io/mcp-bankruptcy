@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-bankruptcy",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Business bankruptcy filings — US federal bankruptcy courts.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-9a9f9dcd1fd609e7faa02d2ecf150e24954def88c607cf86910020f2727b0b5e",
-    "sourceCommit": "32aab95bb6e89ecc0f84597573d405a8a22cb609"
+    "sourceHash": "v1-714602b0dff423164caf1ae91db5c0c821c99905898c23a674511ffad39a83c4",
+    "sourceCommit": "54bf7d1c06a0775508a65d0c388dd10ba75174c3"
   }
 }
