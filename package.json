@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-bankruptcy",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Business bankruptcy filings — US federal bankruptcy courts.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "bankruptcy",
     "gatewaySlug": "bankruptcy",
-    "sourceHash": "v1-70bb5d1d0d01a9e2ec2a83ea293bd2dedda3bf4aff9adb550e2d9fac5d211f3f",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-8e0d7d4a17fdb420f6a376b42e31f13e90db5e8424375385197ccf26918e631a",
+    "sourceCommit": "5cb09714e895571153f3d9663c36ff0f140cadd6"
   }
 }
